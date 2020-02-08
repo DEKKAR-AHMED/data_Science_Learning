@@ -6,3 +6,4 @@ Python:
   - MatPlotlib
   - Numpy
   - Seaborn
+  - Pandas Visualisattion
